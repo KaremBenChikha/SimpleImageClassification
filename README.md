@@ -6,7 +6,7 @@ Simple Neural Networks Model to predict classes of clothing images.
 view full project on Hackster: https://www.hackster.io/karem_benchikha/sample-image-classification-with-tensorflow-e9e598
 
 
-Visit my personal portfolio: https://karembenchikha.me
+Visit my personal portfolio: 
 
 this repository contains a jupyter notebook file called 'main.ipynb'
 
