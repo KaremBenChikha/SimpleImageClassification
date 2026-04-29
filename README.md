@@ -1,22 +1,37 @@
-## SimpleImageClassification
+# Simple Image Classification
 
-Simple Neural Networks Model to predict classes of clothing images.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
 
+A simple neural network model to classify clothing images (e.g., Fashion MNIST).
 
-view full project on Hackster: https://www.hackster.io/karem_benchikha/sample-image-classification-with-tensorflow-e9e598
+[![Hackster](https://img.shields.io/badge/View_on-Hackster-2E9FE6)](https://www.hackster.io/karem_benchikha/sample-image-classification-with-tensorflow-e9e598)
 
+## Overview
 
-Visit my personal portfolio: 
+A beginner-friendly introduction to image classification using TensorFlow/Keras. Trains a neural network on the Fashion MNIST dataset to predict clothing item categories.
 
-this repository contains a jupyter notebook file called 'main.ipynb'
+## Contents
 
-needed dependencies: 
+- `main.ipynb` — Jupyter notebook with the full pipeline
 
-python 3 
-Keras
-Tensorflow
-matplotlib
-numpy
+## Dependencies
 
-jupyternotebook runs from VSCode
+```bash
+pip3 install tensorflow keras matplotlib numpy jupyter
+```
 
+## Usage
+
+```bash
+jupyter notebook main.ipynb
+```
+
+## Tech Stack
+
+- **Framework**: TensorFlow / Keras
+- **Runtime**: Jupyter Notebook (VSCode or local)
+- **Dataset**: Fashion MNIST
